@@ -25,8 +25,6 @@ _An AI-powered book discovery engine that understands the **themes**, **emotions
   <sub>Main Dashboard &nbsp;|&nbsp; Category Filtering &nbsp;|&nbsp; Emotion-Ranked Results</sub>
 </div>
 
-> 📌 **To add screenshots:** Create an `assets/` folder in the root of your repository and drop in `screenshot_dashboard.png`, `screenshot_filters.png`, and `screenshot_results.png`.
-
 ---
 
 ## ✨ Overview
